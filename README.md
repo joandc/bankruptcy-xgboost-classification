@@ -1,6 +1,6 @@
 # Assignment 5 — Comparative Binary Classification with XGBoost
 
-**Course:** DATA 1204 — Stat and Pred Modeling for Analytics
+**Course:** DATA 1204 — Stat and Pred Modeling for Analytics <br/>
 **Task:** Predict company bankruptcy using XGBoost on an imbalanced dataset.
 
 This repository contains the notebook and supporting files for Assignment 5.
